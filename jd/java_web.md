@@ -9,7 +9,7 @@
 **岗位要求：**   
 1、3年及以上Java Web开发经验；     
 2、对IO、NIO、多线程、高并发有自己的理解，对JVM原理有一定的了解；       
-3、熟悉Spring、SpringBoot、SpringCloud、Mybatis等常用框架；     
+3、熟悉Spring、SpringBoot、SpringCloud、Mybatis等常用框架；    
 4、熟练JavaScript、JQuery、Ajax、HTML、CSS、Bootstrap、D3等前端技术与框架；    
 5、熟练Mysql及性能调优,有应用Memcached/Redis/MongoDB等NoSQL型数据库经验；    
 6、熟练Linux开发环境，能够使用常用命令调试解决问题；    
